@@ -1,1 +1,6 @@
-- 👋 Hi, I’m @clairemurray24 and have some coding experience. I wanted to take this class because it seems like a good opportunity to learn things about coding that I haven't done before. I really like to play sports like tennis, swimming, and lacrosse. My goals for this class are to learn new things and become a stronger coder. Fun fact my dog's name is Pete 😄
+- 👋 Hey
+-  I have some coding experience.
+-  I wanted to take this class because it seems like a good opportunity to learn things about coding that I haven't done before.
+-  I really like to play sports like tennis, swimming, and lacrosse.
+-  My goals for this class are to learn new things and become a stronger coder.
+-  Fun fact my dog's name is Pete 😄
